@@ -1,0 +1,1 @@
+{"description":"Neon Shores — an original open-world crime game in Port Azura, built for make.fun's gta6-01 bounty.","name":"neon-shores","private":true,"scripts":{"build":"node main.ts","serve":"node serve.ts"},"type":"module","version":"1.0.0"}
